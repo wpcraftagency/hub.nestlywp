@@ -3,6 +3,16 @@ import clsx from "clsx";
 import styles from "./styles.module.css";
 
 const FeatureList = [
+    {
+    title: "Knowledgebase",
+    link: "/docs/knowledgebase/",
+    Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
+    description: (
+      <>
+        WordPress-hez, bővítményekhez és webfefejlesztéshez kapcsolodó oktató anyagok.{" "}
+      </>
+    ),
+  },
   {
     title: "Dokumentáció",
     link: "/docs/dokumentacio/",
@@ -22,16 +32,6 @@ const FeatureList = [
     description: (
       <>
         Itt találod a NestlyWP.com weboldal kezelését részletesebben. {" "}
-      </>
-    ),
-  },
-  {
-    title: "Knowledgebase",
-    link: "/docs/knowledgebase/",
-    Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
-    description: (
-      <>
-        WordPress-hez, bővítményekhez és webfefejlesztéshez kapcsolodó oktató anyagok.{" "}
       </>
     ),
   },
