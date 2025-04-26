@@ -7,7 +7,7 @@ Szeretnénk, ha a Hub oldalt a WordPress közösség is használhatná, sőt, k�
 
 ## Tudásbázis
 
-WordPress-hez, bővítményekhez és webfefejlesztéshez kapcsolodó oktató anyagok. Például: [Hasznos eszközök](/docs/tudasbazis/hasznos-eszkozok/), [Oktatóanyagok](./docs/tudasbazis/oktatoanyagok/)
+WordPress-hez, bővítményekhez és webfefejlesztéshez kapcsolodó oktató anyagok. Például: [Hasznos eszközök](/docs/knowledgebase/hasznos-eszkozok/), [Oktatóanyagok](./docs/knowledgebase/oktatoanyagok/)
 
 ## Dokumentáció
 Itt találod a HelloWP-s termékek és szolgáltatások leírásait. Például: [HelloPack leírásai](./docs/dokumentacio/hellopack/)
@@ -23,5 +23,5 @@ Itt találod a HelloWP.io oldal részletesebb leírásait. Például: [Partnerpr
 A HelloWP! Hub minden tartalma módosítható a lap alján lévő "Szerkesztés GitHub-on" gombra kattintva. A GitHub-on történő szerkesztéshez szükséged lesz egy GitHub fiókra. 
 
 :::tip Új vagy a GitHubon?
-Nézd át a [GitHub kezdőknek](/docs/tudasbazis/oktatoanyagok/github/github-kezdoknek/) című oktatóanyagunkat.
+Nézd át a [GitHub kezdőknek](/docs/knowledgebase/oktatoanyagok/github/github-kezdoknek/) című oktatóanyagunkat.
 :::
