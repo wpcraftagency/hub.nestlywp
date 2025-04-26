@@ -7,16 +7,16 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "HelloWP Hub",
+  title: "NestlyWP HUB",
   tagline: "Dokumentáció és Tudásbázis",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://hub.hellowp.io/",
+  url: "https://kb.nestlywp.com/",
   baseUrl: "/",
 
-  organizationName: "hellowpio", // Usually your GitHub org/user name.
-  projectName: "support.hellowp.io", // Usually your repo name.
+  organizationName: "nestlywp", // Usually your GitHub org/user name.
+  projectName: "hub.nestlywp", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -52,13 +52,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
 
-          editUrl: "https://github.com/hellowpio/hub.hellowp.io/blob/main/",
+          editUrl: "https://github.com/wpcraftagency/hub.nestlywp/blob/main/",
           showLastUpdateAuthor: false,
           showLastUpdateTime: false,
         },
         blog: {
           showReadingTime: true,
-          editUrl: "https://github.com/hellowpio/hub.hellowp.io/blob/main/",
+          editUrl: "https://github.com/wpcraftagency/hub.nestlywp/blob/main/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -92,9 +92,9 @@ const config = {
 
       image: "img/hellowp-hub.png",
       navbar: {
-        title: "HelloWP Hub",
+        title: "NestlyWP KB",
         logo: {
-          alt: "HelloWP Hub",
+          alt: "NestlyWP KB",
           src: "img/logo.svg",
         },
         items: [
@@ -120,7 +120,7 @@ const config = {
             position: "left",
           },
           {
-            href: "https://github.com/hellowpio/hub.hellowp.io",
+            href: "https://github.com/wpcraftagency/hub.nestlywp",
             label: "GitHub",
             position: "right",
             className: "header-github-link",
@@ -197,7 +197,7 @@ const config = {
               },
               {
                 label: "GitHub",
-                href: "https://github.com/hellowpio/hub.hellowp.io",
+                href: "https://github.com/wpcraftagency/hub.nestlywp",
               },
             ],
           },
@@ -206,9 +206,9 @@ const config = {
           alt: "HelloWP!",
           src: "img/logo-260-60-color.svg",
           srcDark: "img/logo-260-60-wihte-green.svg",
-          href: "https://hellowp.io",
+          href: "https://nestlywp.com",
         },
-        copyright: `© ${new Date().getFullYear()} TooEarlyBird, LLC <br> A forráskód <a href="/mit-licensz">MIT</a>, a weboldal tartalma <a href="/cc-by-nc-sa-4.0">CC BY NC SA 4.0 license</a> alatt áll.`,
+        copyright: `© ${new Date().getFullYear()} WpCraft Digital Agency, LLC <br> A forráskód <a href="/mit-licensz">MIT</a>, a weboldal tartalma <a href="/cc-by-nc-sa-4.0">CC BY NC SA 4.0 license</a> alatt áll.`,
       },
       prism: {
         theme: lightCodeTheme,
