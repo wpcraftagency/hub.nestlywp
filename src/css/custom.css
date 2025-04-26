@@ -7,7 +7,7 @@
 /* You can override the default Infima variables here. */
 
 :root {
-  --ifm-color-primary: #3273dc;
+  --ifm-color-primary: #182329;
   --ifm-color-primary-dark: #2365d0;
   --ifm-color-primary-darker: #2160c4;
   --ifm-color-primary-darkest: #1c4fa1;
@@ -144,7 +144,7 @@
   border-color: #ebedf0;
 }
 
-/* Syles from the HelloWP.io theme */
+/* Syles from the NestlyWp.com theme */
 
 .text-success {
   color: var(--bs-success);
