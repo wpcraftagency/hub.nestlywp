@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "NestlyWP HUB",
+  title: "NestlyWP KB",
   tagline: "Dokumentáció és Tudásbázis",
   favicon: "img/favicon.ico",
 
@@ -203,7 +203,7 @@ const config = {
           },
         ],
         logo: {
-          alt: "HelloWP!",
+          alt: "NestlyWP!",
           src: "img/logo-260-60-color.svg",
           srcDark: "img/logo-260-60-wihte-green.svg",
           href: "https://nestlywp.com",
