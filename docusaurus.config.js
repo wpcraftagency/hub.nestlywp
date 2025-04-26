@@ -22,9 +22,8 @@ const config = {
   onBrokenMarkdownLinks: "warn",
 
   i18n: {
-    defaultLocale: "en",
-    locales: ["en"],
-    locales: ["hu"],
+    defaultLocale: "hu",
+    locales: ["hu"]
   },
 
   plugins: [
