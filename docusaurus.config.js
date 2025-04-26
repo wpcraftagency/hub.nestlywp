@@ -22,7 +22,8 @@ const config = {
   onBrokenMarkdownLinks: "warn",
 
   i18n: {
-    defaultLocale: "hu",
+    defaultLocale: "en",
+    locales: ["en"],
     locales: ["hu"],
   },
 
@@ -105,8 +106,8 @@ const config = {
             activeBaseRegex: "docs/(next|v8)",
           },
           {
-            to: "docs/tudasbazis/",
-            label: "Tudásbázis",
+            to: "docs/knowledgebase/",
+            label: "Knowledge base",
             position: "left",
           },
           {
@@ -164,19 +165,19 @@ const config = {
             ],
           },
           {
-            title: "Tudásbázis",
+            title: "Knowledge base",
             items: [
               {
                 label: "Hasznos eszközök",
-                to: "docs/tudasbazis/hasznos-eszkozok",
+                to: "docs/knowledgebase/hasznos-eszkozok",
               },
               {
                 label: "Oktatóanyagok",
-                to: "/docs/tudasbazis/oktatoanyagok",
+                to: "/docs/knowledgebase/oktatoanyagok",
               },
               {
                 label: "Hibaelhárítás",
-                to: "/docs/tudasbazis/hibaelharitas",
+                to: "/docs/knowledgebase/hibaelharitas",
               },
             ],
           },
