@@ -1,5 +1,5 @@
 # hub.nestlywp.com
-This website is built using Docusaurus 2, a modern static website generator.
+This website is built using <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus 2</a>, a modern static website generator.
 ## Installation
 
 ```bash
