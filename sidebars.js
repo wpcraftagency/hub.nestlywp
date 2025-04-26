@@ -52,10 +52,10 @@ const sidebars = {
             ],
         },
         {
-            label: "Tudásbázis",
+            label: "Knowledge base",
             type: "category",
             items: [
-                "tudasbazis/intro",
+                "knowledgebase/intro",
             ],
         }
     ]  */
