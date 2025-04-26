@@ -93,7 +93,7 @@ function Gyakoriak() {
                 Ezt a hibaüzenetet kapod? Gond van a weboldal
                 tárhelybeállításával.
               </p>
-              <VersionedLink to="/docs/tudasbazis/hibaelharitas/wordpress/a-kovetett-hivatkozas-ervenyessege-lejart">
+              <VersionedLink to="/docs/knowledgebase/hibaelharitas/wordpress/a-kovetett-hivatkozas-ervenyessege-lejart">
                 Probléma megoldása <ArrowRight className="arrow" />
               </VersionedLink>
             </div>
@@ -104,7 +104,7 @@ function Gyakoriak() {
                 <h4>A sablon nem tartalmazza a style.css fájlt</h4>
               </div>
               <p>Valószínűleg nem WordPress sablont próbálsz telepíteni.</p>
-              <VersionedLink to="/docs/tudasbazis/hibaelharitas/wordpress/sablon-telepitesi-hiba">
+              <VersionedLink to="/docs/knowledgebase/hibaelharitas/wordpress/sablon-telepitesi-hiba">
                 Probléma megoldása <ArrowRight className="arrow" />
               </VersionedLink>
             </div>
@@ -118,7 +118,7 @@ function Gyakoriak() {
                 Hiba: "A csomag nem telepíthető. Érvénytelen bővítményeket
                 találtunk."
               </p>
-              <VersionedLink to="/docs/tudasbazis/hibaelharitas/wordpress/bovitmeny-telepitesi-hiba">
+              <VersionedLink to="/docs/knowledgebase/hibaelharitas/wordpress/bovitmeny-telepitesi-hiba">
                 Probléma megoldása <ArrowRight className="arrow" />
               </VersionedLink>
             </div>
@@ -134,8 +134,8 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title="HelloWP Hub"
-      description=" HelloWP Dokumentáció és Tudásbázis "
+      title="NestlyWP KB"
+      description=" NestlyWP Document and Knowledge base "
     >
       <HomepageHeader />
       <main>
