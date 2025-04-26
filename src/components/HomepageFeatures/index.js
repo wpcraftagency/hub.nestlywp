@@ -10,7 +10,7 @@ const FeatureList = [
     Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
     description: (
       <>
-        Itt találod a HelloWP-s termékek és szolgáltatások leírásait. {" "}
+        Itt találod a NestlyWP-s termékek és szolgáltatások leírásait. {" "}
       </>
     ),
   },
@@ -21,13 +21,13 @@ const FeatureList = [
     Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
     description: (
       <>
-        Itt találod a HelloWP.io weboldal kezelését részletesebben. {" "}
+        Itt találod a NestlyWP.com weboldal kezelését részletesebben. {" "}
       </>
     ),
   },
   {
-    title: "Tudásbázis",
-    link: "/docs/tudasbazis/",
+    title: "Knowledgebase",
+    link: "/docs/knowledgebase/",
     Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
     description: (
       <>
