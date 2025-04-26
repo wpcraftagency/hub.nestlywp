@@ -1,7 +1,7 @@
 {
-  "index_name": "hellowp",
-  "start_urls": ["https://hub.hellowp.io/"],
-  "sitemap_urls": ["https://hub.hellowp.io/sitemap.xml"],
+  "index_name": "nestlywp",
+  "start_urls": ["https://kb.nestlywp.com/"],
+  "sitemap_urls": ["https://kb.nestlywp.com/sitemap.xml"],
   "sitemap_alternate_links": true,
   "stop_urls": ["/tests"],
   "selectors": {
